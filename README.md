@@ -26,3 +26,4 @@ edit the settings in matte_picker if you want to change the output resolution et
 
 cd to a directory of artwork and run it as python matte_picker.py
 
+![Screenshot](https://github.com/user-attachments/assets/f192a85f-6626-40a5-8cc4-9a0f748d7b67)
