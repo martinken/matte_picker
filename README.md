@@ -1,4 +1,4 @@
-## [matte_picker - a simple python program to helkp matte artwork for digital frames]
+## [matte_picker - a simple python program to help matte artwork for digital frames]
 
 
 Introduction
@@ -18,3 +18,11 @@ resolution image. The means are then have their luminance adjusted
 light and dark to make up a pair of suggested matte colors for each
 of the means. So with 8 means the program will display 16 suggested
 matte colors.
+
+Example
+============
+
+edit the settings in matte_picker if you want to change the output resolution etc
+
+cd to a directory of artwork and run it as python matte_picker.py
+
